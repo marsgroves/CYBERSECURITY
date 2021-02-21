@@ -3,9 +3,11 @@
 Welcome to my unofficial Cybersecurity portfolio under construction. 
 
 <b>Who Am I?</b>
+
         I am a cybersecurity specialist whose interest in the field lies in the offensive spectrum (Red Team of information security. 
 
 <b>Interests</b>
+
         I am particularly interested in web vulnerabilities, penetration testing, and security research on malware.
 
 <b>Products Used</b>
