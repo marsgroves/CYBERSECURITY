@@ -15,6 +15,7 @@ Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia, Parrot Security
 OSINT, Linux, Nmap, Hashcat, Metasploit, Wireshark, AWK/Bash scripting, Steganography and more.
 
         Other Technical Skills (not cybersecurity related)
+Mechanical ventilators (respiratory therapist background), building PC computers from scratch
 
         Examples of my work: Projects, Whitepapers, Tutorials, and Challenges Completed
 https://
