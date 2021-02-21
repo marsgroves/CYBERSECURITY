@@ -14,5 +14,7 @@ Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia, Parrot Security
         Technical Skills
 OSINT, Linux, Nmap, Hashcat, Metasploit, Wireshark, AWK/Bash scripting, Steganography and more.
 
+        Other Technical Skills (not cybersecurity related)
+
         Examples of my work: Projects, Whitepapers, Tutorials, and Challenges Completed
 https://
