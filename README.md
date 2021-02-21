@@ -2,20 +2,21 @@
 
 Welcome to my unofficial Cybersecurity portfolio under construction. 
 
-    Who Am I?
+<b>Who Am I?</b>
+
         I am a cybersecurity specialist whose interest in the field lies in the offensive spectrum (Red Team) of information security. 
 
-    Interests
+<b>Interests</b>
         I am particularly interested in web vulnerabilities, penetration testing, and security research on malware.
 
-    Products Used
+<b>Products Used</b>
         Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia, Parrot Security
 
-    Technical Skills
+<b>Technical Skills</b>
         OSINT, Linux, Nmap, Hashcat, Metasploit, Wireshark, AWK/Bash scripting, Steganography and more.
 
-    Other Technical Skills (not cybersecurity related)
+<b>Other Technical Skills (not cybersecurity related)</b>
         Mechanical ventilators (respiratory therapist background), building PC computers from scratch, audio engineering on SSL console and Mackie boards, music production (DAWS: Ableton Live, Logic, Cubase, Pro Tools), camera operating, film editing (Adobe Premiere Pro, Final Cut Pro), TV/film production etc.
 
-    Examples of my work: Projects, Whitepapers, Tutorials, and Challenges Completed
-https://
+<b>Examples of my work: Projects, Whitepapers, Tutorials, and Challenges Completed</b>
+    https://
