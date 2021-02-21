@@ -10,3 +10,5 @@ I am particularly interested in web vulnerabilities, penetration testing, and se
 
         Technical Skills
 OSINT, Linux, Nmap, Hashcat, Metasploit, Wireshark, AWK/Bash scripting, Steganography and more.
+
+        Examples of my work: Projects, Whitepapers, Tutorials, and Challenges Completed
