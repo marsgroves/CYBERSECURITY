@@ -8,6 +8,9 @@ I am a cybersecurity specialist whose interest in the field lies in the offensiv
         Interests
 I am particularly interested in web vulnerabilities, penetration testing, and security research on malware.
 
+        Products Used
+Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia, Parrot Security
+
         Technical Skills
 OSINT, Linux, Nmap, Hashcat, Metasploit, Wireshark, AWK/Bash scripting, Steganography and more.
 
