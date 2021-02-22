@@ -15,4 +15,4 @@ Welcome to my unofficial Cybersecurity portfolio under construction.
     Linux, Nmap, Hashcat, Metasploit, Wireshark, AWK/Bash scripting, and more
 
         Examples of my work: Projects, Whitepapers, Tutorials, and Challenges Completed
-  https://  
+  
