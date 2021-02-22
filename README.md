@@ -14,8 +14,5 @@ Welcome to my unofficial Cybersecurity portfolio under construction.
         Technical Skills
     Linux, Nmap, Hashcat, Metasploit, Wireshark, AWK/Bash scripting, and more
 
-        Other Technical Skills (not cybersecurity related)
-
-
         Examples of my work: Projects, Whitepapers, Tutorials, and Challenges Completed
     https://
