@@ -6,7 +6,7 @@ Welcome to my unofficial Cybersecurity portfolio under construction.
     I am a cybersecurity specialist.
 
         Interests
-    I am particularly interested in web vulnerabilities, penetration testing, and security research on malware.
+    Bug Bounty Hunting, web vulnerabilities, penetration testing, security research, malware analysis.
 
         Products Used
     Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia, Parrot Security
