@@ -9,7 +9,7 @@ Welcome to my unofficial Cybersecurity portfolio under construction.
     Bug Bounty Hunting, web vulnerabilities, penetration testing, security research, malware analysis.
 
         Products Used
-    Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia, Parrot Security
+    Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia
 
         Technical Skills
     OSINT, Linux, Nmap, Hashcat, Metasploit, Wireshark, AWK/Bash scripting, Steganography and more.
