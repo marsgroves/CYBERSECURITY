@@ -3,8 +3,8 @@
 Welcome to my unofficial Cybersecurity portfolio under construction. 
 
         Who Am I?
-    I am a Cybersecurity Specialist.
-
+    I am a Cybersecurity Specialist. I am a Cybersecurity bootcamp grad from UC Irvine '21.
+    
         Interests
     Bug Bounty Hunting, web vulnerabilities, penetration testing, security research, malware analysis.
 
