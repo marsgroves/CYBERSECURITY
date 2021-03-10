@@ -12,7 +12,7 @@ Welcome to my unofficial Cybersecurity portfolio under construction.
     Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia
 
         Technical Skills
-    Linux, Nmap, Hashcat, Metasploit, Wireshark, AWK/Bash scripting, and more
+    Linux, Nmap, Hashcat, Splunk, Metasploit, Wireshark, AWK/Bash scripting, and more
 
         Examples of my work: Projects, Whitepapers, Tutorials, and Challenges Completed
   
