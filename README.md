@@ -3,7 +3,7 @@
 Welcome to my unofficial Cybersecurity portfolio under construction. 
 
         Who Am I?
-    I am a cybersecurity specialist.
+    I am a Cybersecurity Specialist.
 
         Interests
     Bug Bounty Hunting, web vulnerabilities, penetration testing, security research, malware analysis.
