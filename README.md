@@ -2,17 +2,16 @@
 
 Welcome to my unofficial Cybersecurity portfolio under construction. 
 
-        Who Am I?
+# Who Am I?
     I am a Cybersecurity Specialist. I am a Cybersecurity bootcamp grad from UC Irvine '21.
 
-        Interests
-    Penetration Testing, Bug Bounty Hunting, Web App Hacking, Security research, Secure Coding, and Malware analysis.
+# Interests
+    Red Team/Offensive Security: Penetration Testing, Bug Bounty Hunting, Web App Hacking, Security research, Secure Coding, and Malware analysis.
 
-        Products Used
+# Products Used
     Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia
 
-        Technical Skills
+# Technical Skills
     Linux, Nmap, Hashcat, Splunk, Metasploit, Wireshark, AWK/Bash scripting, and more
 
-        Examples of my work: Projects, Whitepapers, Tutorials, and Challenges Completed
   
