@@ -14,4 +14,5 @@ Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia
 # Technical Skills
 Linux, Nmap, Hashcat, Splunk, Metasploit, Wireshark, AWK/Bash scripting, and more
 
-  
+# Team
+Red Team baby!
