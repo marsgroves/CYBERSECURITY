@@ -16,6 +16,6 @@
     5.	Give your secret user full sudo access without the need for a password:
                 • sudo visudo
 
-```html
+```html4
 <i>After executing the above command, you will be brought into the <b>sudoers file<b> to edit as seen in photo below.</i>```
 ![see photo](/images/picture1.png)
