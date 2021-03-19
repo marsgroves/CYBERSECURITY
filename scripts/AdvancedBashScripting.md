@@ -15,4 +15,5 @@ Step 1: Shadow People
 
     5.	Give your secret user full sudo access without the need for a password:
         •	sudo visudo
-        ![see photo](/images/picture1.png)
+    
+    ![see photo](/images/picture1.png)
