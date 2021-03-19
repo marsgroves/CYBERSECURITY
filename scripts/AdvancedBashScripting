@@ -11,3 +11,4 @@ Step 1: Shadow People
     •	sudo usermod -u 400 sysd
 
     4.	Give your secret user the same GID:
+    •	sudo groupmod -u 400 sysd
