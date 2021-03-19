@@ -12,3 +12,5 @@ Step 1: Shadow People
 
     4.	Give your secret user the same GID:
     •	sudo groupmod -u 400 sysd
+
+    5.	Give your secret user full sudo access without the need for a password:
