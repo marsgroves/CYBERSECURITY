@@ -5,3 +5,4 @@ Step 1: Shadow People
     •	sudo useradd sysd
 
     2.	Give your secret user a password:
+    •	sudo passwd sysd
