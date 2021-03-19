@@ -6,3 +6,5 @@ Step 1: Shadow People
 
     2.	Give your secret user a password:
     •	sudo passwd sysd
+
+    3.	Give your secret user a system UID < 1000:
