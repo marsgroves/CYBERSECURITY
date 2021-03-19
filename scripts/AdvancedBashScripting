@@ -8,3 +8,4 @@ Step 1: Shadow People
     •	sudo passwd sysd
 
     3.	Give your secret user a system UID < 1000:
+    •	sudo usermod -u 400 sysd
