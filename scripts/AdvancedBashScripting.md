@@ -24,3 +24,4 @@ After executing the above command, you will be brought into the sudoers file to 
 ![see photo](/images/Picture2.png)  
 
     Test that sudo access works without your password: 
+            • su sysd
