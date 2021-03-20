@@ -23,4 +23,4 @@ After executing the above command, you will be brought into the sudoers file to 
                 • sysd ALL=(ALL:ALL) NOPASSWD:ALL
 ![see photo](/images/Picture2.png)  
 
-    Test that sudo access works without your password:
+    Test that sudo access works without your password: 
