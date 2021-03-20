@@ -21,5 +21,4 @@ After executing the above command, you will be brought into the sudoers file to 
 
     Then we can add the following code in user privilege specification after root entry:
                 • sysd ALL=(ALL:ALL) NOPASSWD:ALL
-
 ![see photo](/images/Picture2.png)  
