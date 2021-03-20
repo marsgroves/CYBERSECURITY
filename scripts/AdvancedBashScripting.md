@@ -30,3 +30,5 @@ After executing the above command, you will be brought into the sudoers file to 
 ![see photo](/images/Picture3.png)
 
 ## Step 2: Smooth Sailing
+
+    1.	Edit the sshd_config file:
