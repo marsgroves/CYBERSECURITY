@@ -48,3 +48,5 @@ After executing the above command, you will be brought into the sudoers file to 
     1. SSH back to the system using your sysd account and port 2222:
         • ssh sysd@192.168.6.105 -p 2222
     2. Escalate your privileges to the root user. Use John to crack the entire /etc/shadow file:
+        • sudo su
+        
