@@ -25,3 +25,5 @@ After executing the above command, you will be brought into the sudoers file to 
 
     Test that sudo access works without your password: 
             • su sysd
+            Then
+            • sudo -l
