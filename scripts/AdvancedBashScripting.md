@@ -41,4 +41,4 @@ After executing the above command, you will be brought into the sudoers file to 
         • service ssh restart
     2. Exit the root account:
         • exit
-    3. 
+    3. SSH to the target machine using your sysd account and port 2222:
