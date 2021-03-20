@@ -38,3 +38,5 @@ After executing the above command, you will be brought into the sudoers file to 
 ## Step 3: Testing Your Configuration Update
 
     1. Restart the SSH service:
+        • service ssh restart
+    
