@@ -40,4 +40,4 @@ After executing the above command, you will be brought into the sudoers file to 
     1. Restart the SSH service:
         • service ssh restart
     2. Exit the root account:
-        
+        • exit
