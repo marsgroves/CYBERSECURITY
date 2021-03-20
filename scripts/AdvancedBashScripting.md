@@ -45,6 +45,6 @@ After executing the above command, you will be brought into the sudoers file to 
         • ssh sysd@192.168.6.105 -p 2222
     
 ## Step 4: Crack All The Passwords
-    1. 
+    1. SSH back to the system using your sysd account and port 2222:
         • ssh sysd@192.168.6.105 -p 2222
     
