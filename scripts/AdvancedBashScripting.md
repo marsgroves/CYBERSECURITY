@@ -52,4 +52,5 @@ After executing the above command, you will be brought into the sudoers file to 
         • john /etc/shadow
 
 See screenshot below.
+
 ![see photo](/images/Picture5.png)
