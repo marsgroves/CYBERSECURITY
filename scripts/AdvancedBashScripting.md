@@ -50,3 +50,5 @@ After executing the above command, you will be brought into the sudoers file to 
     2. Escalate your privileges to the root user. Use John to crack the entire /etc/shadow file:
         • sudo su
         • john /etc/shadow
+
+![see photo](/images/Picture5.png)
