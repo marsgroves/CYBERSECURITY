@@ -33,5 +33,8 @@ After executing the above command, you will be brought into the sudoers file to 
 
     1.	Edit the sshd_config file:
         • sudo nano /etc/ssh/sshd_config
+![see photo](/images/Picture4.png)
 
 ## Step 3: Testing Your Configuration Update
+
+    1. Restart the SSH service:
