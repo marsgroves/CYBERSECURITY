@@ -27,3 +27,6 @@ After executing the above command, you will be brought into the sudoers file to 
             • su sysd
             Then
             • sudo -l
+![see photo](/images/Picture3.png)
+
+## Step 2: Smooth Sailing
