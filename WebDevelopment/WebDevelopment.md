@@ -27,3 +27,5 @@ The status line, the response headers, and response body.
 POST and GET requests.
 
 7. Which type of HTTP request method is used for sending data?
+
+POST requests.
