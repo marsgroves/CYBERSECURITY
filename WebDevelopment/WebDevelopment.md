@@ -30,6 +30,7 @@ POST and GET requests.
 
 POST requests.
 
-
 8. Which part of an HTTP request contains the data being sent to the server?
+
+Request body.
 
