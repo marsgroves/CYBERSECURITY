@@ -29,3 +29,7 @@ POST and GET requests.
 7. Which type of HTTP request method is used for sending data?
 
 POST requests.
+
+
+8. Which part of an HTTP request contains the data being sent to the server?
+
