@@ -37,3 +37,5 @@ Request body.
 9. In which part of an HTTP response does the browser receive the web code to generate and style a web page?
 
 Response body.
+
+## Using curl
