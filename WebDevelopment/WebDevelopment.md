@@ -11,3 +11,5 @@ HTTP uses client-server architecture where the client makes a request from the s
 Request line, request headers, and a request body.
 
 3. Which part of an HTTP request is optional?
+
+The request body is optional.
