@@ -17,3 +17,5 @@ The request body is optional.
 4. What are the three parts of an HTTP response?
 
 The status line, the response headers, and response body.
+
+5. Which number class of status codes represent errors?
