@@ -13,3 +13,5 @@ Request line, request headers, and a request body.
 3. Which part of an HTTP request is optional?
 
 The request body is optional.
+
+4. What are the three parts of an HTTP response?
