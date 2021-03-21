@@ -9,3 +9,5 @@ HTTP uses client-server architecture where the client makes a request from the s
 2. What are the different parts of an HTTP request? 
 
 Request line, request headers, and a request body.
+
+3. Which part of an HTTP request is optional?
