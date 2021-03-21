@@ -42,6 +42,5 @@ Response body.
 
 10. What are the advantages of using 'curl' over the browser?
 
-
 It lets you see the response status lines and can be repeated or edited while in use.
 
