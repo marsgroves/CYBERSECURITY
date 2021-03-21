@@ -39,3 +39,5 @@ Request body.
 Response body.
 
 ## Using curl
+
+10. What are the advantages of using 'curl' over the browser?
