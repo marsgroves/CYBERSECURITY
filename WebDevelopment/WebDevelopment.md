@@ -45,3 +45,5 @@ Response body.
 It lets you see the response status lines and can be repeated or edited while in use.
 
 11. Which 'curl' option is used to change the request method?
+
+The curl option -X followed by a POST request method lets you change the request method.
