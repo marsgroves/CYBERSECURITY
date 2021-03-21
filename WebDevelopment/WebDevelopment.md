@@ -25,3 +25,5 @@ The status line, the response headers, and response body.
 6. What are the two most common request methods that a security professional will encounter?
 
 POST and GET requests.
+
+7. Which type of HTTP request method is used for sending data?
