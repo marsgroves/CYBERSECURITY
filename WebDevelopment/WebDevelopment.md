@@ -104,3 +104,7 @@ The request method is POST.
 18. Which header expresses the client's preference for an encrypted response?
 
 The Upgrade-Insecure-Requests: 1 header is the browser requesting an encrypted response.
+
+
+19. Does the request have a user session associated with it?
+
