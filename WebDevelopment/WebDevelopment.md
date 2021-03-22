@@ -151,4 +151,4 @@ Yes, which you can see from the Set-Cookie header.
 
 24.  What kind of content is likely to be in the [page content] response body?
 
-
+The site’s web code based on the content-type: text/html header.
