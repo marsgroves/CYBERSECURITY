@@ -99,3 +99,6 @@ username=Barbara&password=password
 17. What is the request method?
 
 The request method is POST.
+
+
+18. Which header expresses the client's preference for an encrypted response?
