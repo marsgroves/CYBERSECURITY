@@ -138,3 +138,5 @@ The response status code is 200 OK.
 
 
 22. What web server is handling this HTTP response?
+
+The web server handling this HTTP response is Apache.
