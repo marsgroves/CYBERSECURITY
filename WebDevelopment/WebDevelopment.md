@@ -97,3 +97,5 @@ username=Barbara&password=password
 ```
 
 17. What is the request method?
+
+The request method is POST.
