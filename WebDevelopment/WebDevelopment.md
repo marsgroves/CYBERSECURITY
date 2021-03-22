@@ -82,3 +82,16 @@ Cookie: cart=Bob
 ## Example HTTP Requests and Responses
 
 HTTP Request:
+
+```HTTP
+POST /login.php HTTP/1.1
+Host: example.com
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 34
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+
+username=Barbara&password=password
+```
