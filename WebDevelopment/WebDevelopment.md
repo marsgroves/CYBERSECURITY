@@ -80,3 +80,5 @@ Host: www.example.org
 Cookie: cart=Bob
 
 ## Example HTTP Requests and Responses
+
+HTTP Request:
