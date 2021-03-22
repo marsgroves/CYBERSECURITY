@@ -51,3 +51,5 @@ The curl option -X followed by a POST request method lets you change the request
 12. Which 'curl' option is used to set request headers?
 
 The curl option -H lets you add a header to a request e.g., curl google.com -H "Cookie: Session ID=John".  
+
+13. Which 'curl' option is used to view the response header?
