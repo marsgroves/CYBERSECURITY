@@ -64,4 +64,8 @@ The OPTIONS request method so they can figure out usable request methods from wh
 
 15. Which response header sends a cookie to the client?
 
-The "Set-Cookie" response header sends a cookie to the client. 
+The "Set-Cookie" response header sends a cookie to the client.
+
+HTTP/1.1 200 OK
+Content-type: text/html
+Set-Cookie: cart=Bob
