@@ -135,3 +135,6 @@ X-XSS-Protection: 1; mode=block
 21. What is the response status code?
 
 The response status code is 200 OK.
+
+
+22. What web server is handling this HTTP response?
