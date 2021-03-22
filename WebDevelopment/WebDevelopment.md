@@ -95,3 +95,5 @@ User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/5
 
 username=Barbara&password=password
 ```
+
+17. What is the request method?
