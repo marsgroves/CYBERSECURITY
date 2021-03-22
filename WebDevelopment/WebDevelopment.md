@@ -110,3 +110,7 @@ The Upgrade-Insecure-Requests: 1 header is the browser requesting an encrypted r
 
 No, because the request does not have a Cookie header set.
 
+
+20. What kind of data is being sent from this request body? 
+
+
