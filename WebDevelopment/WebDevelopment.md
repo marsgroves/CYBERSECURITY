@@ -55,3 +55,5 @@ The curl option -H lets you add a header to a request e.g., curl google.com -H "
 13. Which 'curl' option is used to view the response header?
 
 The curl option -I lets you view the response header.
+
+14. Which request method might an attacker use to figure out which HTTP requests an HTTP server will accept?
