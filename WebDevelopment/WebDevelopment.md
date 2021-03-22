@@ -115,4 +115,4 @@ No, because the request does not have a Cookie header set.
 
 It appears that this request is an attempt to authenticate into the site's login.php page.
 
-
+HTTP Response:
