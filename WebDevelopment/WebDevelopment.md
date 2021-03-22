@@ -113,4 +113,6 @@ No, because the request does not have a Cookie header set.
 
 20. What kind of data is being sent from this request body? 
 
+It appears that this request is an attempt to authenticate into the site's login.php page.
+
 
