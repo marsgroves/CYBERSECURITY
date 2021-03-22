@@ -79,4 +79,4 @@ GET /cart HTTP/1.1
 Host: www.example.org
 Cookie: cart=Bob
 
-## 
+## Example HTTP Requests and Responses
