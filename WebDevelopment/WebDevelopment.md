@@ -132,3 +132,4 @@ X-Frame-Options: DENY
 X-XSS-Protection: 1; mode=block
 ```
 
+21. What is the response status code?
