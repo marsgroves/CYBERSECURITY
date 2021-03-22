@@ -144,4 +144,5 @@ The web server handling this HTTP response is Apache.
 
 23. Does this response have a user session associated to it?
 
+Yes, which you can see from the Set-Cookie header.
 
