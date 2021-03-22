@@ -63,3 +63,5 @@ The OPTIONS request method so they can figure out usable request methods from wh
 ## Sessions and Cookies
 
 15. Which response header sends a cookie to the client?
+
+The "Set-Cookie" response header sends a cookie to the client. 
