@@ -71,3 +71,6 @@ Content-type: text/html
 Set-Cookie: cart=Bob
 
 16. Which request header will continue the client's session?
+
+
+The "Cookie" request header will send the "cart=Bob" cookie with the GET request. 
