@@ -69,3 +69,5 @@ The "Set-Cookie" response header sends a cookie to the client.
 HTTP/1.1 200 OK
 Content-type: text/html
 Set-Cookie: cart=Bob
+
+16. Which request header will continue the client's session?
