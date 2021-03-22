@@ -61,3 +61,5 @@ The curl option -I lets you view the response header.
 The OPTIONS request method so they can figure out usable request methods from what they see.
 
 ## Sessions and Cookies
+
+15. Which response header sends a cookie to the client?
