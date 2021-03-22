@@ -130,6 +130,8 @@ Strict-Transport-Security: max-age=31536000; includeSubDomains
 X-Content-Type: NoSniff
 X-Frame-Options: DENY
 X-XSS-Protection: 1; mode=block
+
+[page content]
 ```
 
 21. What is the response status code?
@@ -145,4 +147,8 @@ The web server handling this HTTP response is Apache.
 23. Does this response have a user session associated to it?
 
 Yes, which you can see from the Set-Cookie header.
+
+
+24.  What kind of content is likely to be in the [page content] response body?
+
 
