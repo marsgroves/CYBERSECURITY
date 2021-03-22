@@ -116,3 +116,19 @@ No, because the request does not have a Cookie header set.
 It appears that this request is an attempt to authenticate into the site's login.php page.
 
 HTTP Response:
+
+```HTTP
+HTTP/1.1 200 OK
+Date: Mon, 16 Mar 2020 17:05:43 GMT
+Last-Modified: Sat, 01 Feb 2020 00:00:00 GMT
+Content-Encoding: gzip
+Expires: Fri, 01 May 2020 00:00:00 GMT
+Server: Apache
+Set-Cookie: SessionID=5
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type: NoSniff
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+```
+
