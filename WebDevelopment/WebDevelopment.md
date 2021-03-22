@@ -108,3 +108,6 @@ The Upgrade-Insecure-Requests: 1 header is the browser requesting an encrypted r
 
 19. Does the request have a user session associated with it?
 
+
+No, because the request does not have a Cookie header set.
+
