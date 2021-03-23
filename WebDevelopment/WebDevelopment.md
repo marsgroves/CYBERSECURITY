@@ -176,3 +176,5 @@ Containers which allow microservices to be both scalable and redundant.
 ## Deploying and Testing a Container Set
 
 29. What tool can be used to deploy multiple containers at once?
+
+Docker-Compose can deploy multiple containers at once using a `docker-compose.yml` file.
