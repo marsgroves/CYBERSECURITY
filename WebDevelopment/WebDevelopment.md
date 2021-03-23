@@ -168,3 +168,5 @@ Services.
 27. What is a service that writes to a database and communicates to other services?
 
 An Application Programming Interface or API that allows people to interact directly with back-end-like services.
+
+28. What type of underlying technology allows for microservices to become scalable and have redundancy?
