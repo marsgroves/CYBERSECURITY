@@ -185,3 +185,5 @@ Docker-Compose can deploy multiple containers at once using a 'docker-compose.ym
 A YAML file, specifically a 'docker-compose.yml' configuration file that contains all of the base containers, networking, and other configurations for our container set.
 
 ## Databases
+
+31. Which type of SQL query would we use to see all of the information within a table called 'customers'?
