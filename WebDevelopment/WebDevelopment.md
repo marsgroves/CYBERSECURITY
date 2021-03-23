@@ -187,3 +187,5 @@ A YAML file, specifically a 'docker-compose.yml' configuration file that contain
 ## Databases
 
 31. Which type of SQL query would we use to see all of the information within a table called 'customers'?
+
+## 
