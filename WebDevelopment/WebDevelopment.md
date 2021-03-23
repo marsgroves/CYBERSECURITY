@@ -189,3 +189,5 @@ A YAML file, specifically a 'docker-compose.yml' configuration file that contain
 31. Which type of SQL query would we use to see all of the information within a table called 'customers'?
 
 ## SELECT * FROM customers;
+
+32. Which type of SQL query would we use to enter new data into a table? (You don't need a full query, just the first part of the statement.)
