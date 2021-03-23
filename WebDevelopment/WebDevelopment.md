@@ -155,3 +155,5 @@ The site’s web code based on the content-type: text/html header.
 
 
 25. If your class covered security headers, what security request headers have been included?
+
+There are many security headers in this example, but the one covered in class would have been 'Strict-Transport-Security', which tells the client that it should only be accessed over HTTPS and not HTTP.
