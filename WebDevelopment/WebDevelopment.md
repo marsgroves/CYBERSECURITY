@@ -197,3 +197,5 @@ A YAML file, specifically a 'docker-compose.yml' configuration file that contain
 33. Why would we never run `DELETE FROM <table-name>;` by itself?
 
 We would never run it because it would delete the entire table.
+
+## We would never run it because it would delete the entire table.
