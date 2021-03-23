@@ -198,4 +198,5 @@ A YAML file, specifically a 'docker-compose.yml' configuration file that contain
 
 We would never run it because it would delete the entire table.
 
-## We would never run it because it would delete the entire table.
+## Bonus Challenge Solution: The Cookie Jar
+
