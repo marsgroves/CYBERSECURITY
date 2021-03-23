@@ -163,3 +163,6 @@ There are many security headers in this example, but the one covered in class wo
 26. What are the individual components of microservices called?
 
 Services.
+
+
+27. What is a service that writes to a database and communicates to other services?
