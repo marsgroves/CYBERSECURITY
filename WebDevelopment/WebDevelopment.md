@@ -172,3 +172,5 @@ An Application Programming Interface or API that allows people to interact direc
 28. What type of underlying technology allows for microservices to become scalable and have redundancy?
 
 Containers which allow microservices to be both scalable and redundant.
+
+##
