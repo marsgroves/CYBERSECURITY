@@ -159,3 +159,5 @@ The site’s web code based on the content-type: text/html header.
 There are many security headers in this example, but the one covered in class would have been 'Strict-Transport-Security', which tells the client that it should only be accessed over HTTPS and not HTTP.
 
 ## Monoliths and Microservices
+
+26. What are the individual components of microservices called?
