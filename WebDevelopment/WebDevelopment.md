@@ -224,3 +224,5 @@ A: No.
 curl --cookie-jar ./ryancookies.txt --form "log=Ryan" --form "pwd=123456" http://localhost:8080/wp-login.php
 
 3.  Read the contents of the `ryancookies.txt` file. 
+
+Q: How many items exist in this file?
