@@ -201,3 +201,5 @@ We would never run it because it would delete the entire table.
 ## Bonus Challenge Solution: The Cookie Jar
 
 The goal for this bonus challenge was to quickly get familiar with using `curl` to save and manage cookies. Security roles that deal with testing websites will need to know how to use command-line cookies for scripting and automation.
+
+The solution below skips Step 1: Set Up. 
