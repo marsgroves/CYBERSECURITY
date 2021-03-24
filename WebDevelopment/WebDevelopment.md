@@ -229,3 +229,5 @@ Q: How many items exist in this file?
 A: Four cookies exist in the `ryancookies.txt` file.
 
 ## Step 4: Log in Using Cookies
+
+1. Craft a new `curl` command that now uses the `--cookie` option, followed by the path to your cookies file. For the URL, use `http://localhost:8080/wp-admin/index.php`:
