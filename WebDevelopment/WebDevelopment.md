@@ -218,3 +218,5 @@ curl --form "log=Ryan" --form "pwd=123456" http://localhost:8080/wp-login.php
 
 Q: Did you see any obvious confirmation of a login? (Y/N)
 A: No.
+
+2. 2. Construct the same `curl` request, but this time add the option and path to save your cookie: `--cookie-jar ./ryancookies.txt`. This option tells `curl` to save the cookies to the `ryancookies.txt` text file:
