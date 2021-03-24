@@ -217,3 +217,4 @@ The later parts of the activity checked to see if curl returned these same pages
 curl --form "log=Ryan" --form "pwd=123456" http://localhost:8080/wp-login.php
 
 Q: Did you see any obvious confirmation of a login? (Y/N)
+A: No.
