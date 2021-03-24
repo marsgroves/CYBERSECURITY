@@ -211,3 +211,5 @@ The goal of the baselining portion of this activity was to get you familiar with
 The later parts of the activity checked to see if curl returned these same pages.
 
 ## Step 3: Using Forms and a Cookie Jar
+
+1.  Construct a `curl` request that enters two forms: `"log={username}"` and `"pwd={password}"` and goes to `http://localhost:8080/wp-login.php`. Enter Ryan's credentials where there are placeholders:
