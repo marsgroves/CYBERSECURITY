@@ -240,3 +240,5 @@ A: No.
 2. Press the up arrow on your keyboard to run the same command, but this time, pipe `| grep Dashboard` to the end of your command to return all instances of the word `Dashboard` on the page:
 
 curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/index.php | grep Dashboard
+
+Q: Look through the output where Dashboard is highlighted. Does any of the wording on this page seem familiar? (Y/N) If so, you should be successfully logged into your Editor's dashboard.
