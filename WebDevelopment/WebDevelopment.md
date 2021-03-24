@@ -238,3 +238,5 @@ Q: Is it obvious that we can access the Dashboard? (Y/N)
 A: No.
 
 2. Press the up arrow on your keyboard to run the same command, but this time, pipe `| grep Dashboard` to the end of your command to return all instances of the word `Dashboard` on the page:
+
+curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/index.php | grep Dashboard
