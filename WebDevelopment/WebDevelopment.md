@@ -226,3 +226,5 @@ curl --cookie-jar ./ryancookies.txt --form "log=Ryan" --form "pwd=123456" http:/
 3.  Read the contents of the `ryancookies.txt` file. 
 
 Q: How many items exist in this file?
+A: Four cookies exist in the `ryancookies.txt` file.
+
