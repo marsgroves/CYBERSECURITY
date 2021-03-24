@@ -235,3 +235,4 @@ A: Four cookies exist in the `ryancookies.txt` file.
 curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/index.php
 
 Q: Is it obvious that we can access the Dashboard? (Y/N)
+A: No.
