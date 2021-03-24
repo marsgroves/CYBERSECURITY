@@ -177,12 +177,12 @@ Containers which allow microservices to be both scalable and redundant.
 
 29. What tool can be used to deploy multiple containers at once?
 
-Docker-Compose can deploy multiple containers at once using a 'docker-compose.yml' file.
+Docker-Compose can deploy multiple containers at once using a `docker-compose.yml` file.
 
 
 30. What kind of file format is required for us to deploy a container set?
 
-A YAML file, specifically a 'docker-compose.yml' configuration file that contains all of the base containers, networking, and other configurations for our container set.
+A YAML file, specifically a `docker-compose.yml` configuration file that contains all of the base containers, networking, and other configurations for our container set.
 
 ## Databases
 
