@@ -209,3 +209,5 @@ The solution below skips Step 1: Set Up.
 The goal of the baselining portion of this activity was to get you familiar with the contents of the Dashboard and what 'users.php' look like for both Administrator and Editor users. 
 
 The later parts of the activity checked to see if curl returned these same pages.
+
+## Step 3: Using Forms and a Cookie Jar
