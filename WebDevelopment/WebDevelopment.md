@@ -215,3 +215,5 @@ The later parts of the activity checked to see if curl returned these same pages
 1.  Construct a 'curl' request that enters two forms: '"log={username}"' and '"pwd={password}"' and goes to 'http://localhost:8080/wp-login.php'. Enter Ryan's credentials where there are placeholders:
 
 curl --form "log=Ryan" --form "pwd=123456" http://localhost:8080/wp-login.php
+
+Q: Did you see any obvious confirmation of a login? (Y/N)
