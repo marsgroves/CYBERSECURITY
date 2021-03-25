@@ -25,3 +25,5 @@ The attack first occurred on 02-23-2020 on IP addresses 198.153.194.1 and 198.15
 How long did it take your systems to recover?
 
 It took about 2 hours for IP address 198.153.194.2 to return to its normal speeds as indicated at 10:30:00 A.M. when the download speed became 107.91 megabits and the upload speed was 13.51 megabits. At 12:30:00 P.M., IP address 198.153.194.1 returned to its normal range of upload speed 108.91 megabits and download speed 8.51 megabits. Their ratios also increased. 
+
+## Step 2: Are We Vulnerable?
