@@ -18,6 +18,8 @@ Task: Create a report to determine the impact that the DDOS attack had on downlo
 Command in New Search on Splunk: 
 ```source="server_speedtest.csv" | eval ratio = ( UPLOAD_MEGABITS / DOWNLOAD_MEGABITS ) | table _time, IP_ADDRESS, DOWNLOAD_MEGABITS, UPLOAD_MEGABITS, ratio```
 
+![splunk](/images/splunk_speedtest.png)
+
 Based on the report created, what is the approximate date and time of the attack?
 
 The attack first occurred on 02-23-2020 on IP addresses 198.153.194.1 and 198.153.194.2 at 06:30:00 A.M. At 06:30:00 A.M., you can see the attack occurred on IP address 198.153.194.2 when the download speed dropped from its normal download range of 65-110 megabits  down to 12.76 megabits (a dramatic decrease), and its upload speed range dropped from its normal range of 5-12 megabits down to 2.19 megabits. At the same time this occurred, IP address 198.153.194.1 dropped its download speed range of 65-110 megabits down to 7.87 megabits, and its upload speed range that is normally 5-12 also dropped dramatically down to 1.83 megabits. The ratios dropped down to 0.233, 0.172 and 0.195 from 0.0520-0.1170+!
