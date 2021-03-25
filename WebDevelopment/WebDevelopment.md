@@ -242,3 +242,5 @@ A: No.
 curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/index.php | grep Dashboard
 
 Q: Look through the output where Dashboard is highlighted. Does any of the wording on this page seem familiar? (Y/N) If so, you should be successfully logged into your Editor's dashboard.
+
+A: Yes. After adding the grep pipe, we can see all occurrences of the word ‘Dashboard’ within the returned response body, showing us a successfully returned index.php session.
