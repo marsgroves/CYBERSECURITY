@@ -252,3 +252,4 @@ A: Yes. After adding the grep pipe, we can see all occurrences of the word ‘Da
 curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/users.php
 
 Q: What happens this time?
+A: We once again see the warning ‘You need a higher level of permission. Sorry, you are not allowed to list users.’
