@@ -250,3 +250,5 @@ A: Yes. After adding the grep pipe, we can see all occurrences of the word ‘Da
 1. Finally, write a `curl` command using the same `--cookie ryancookies.txt` option, but attempt to access `http://localhost:8080/wp-admin/users.php`:
 
 curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/users.php
+
+Q: What happens this time?
