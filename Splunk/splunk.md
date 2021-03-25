@@ -35,3 +35,5 @@ I created a report that shows the count of critical vulnerabilities from the cus
 ```source=”nessus_logs.csv” dest_ip=”10.11.36.23” severity=”critical” | top severity```
 
 Keep in mind that the activity wanted me to check the last 24 hours of scans. By doing so, my search results showed nothing which is boring. So, I also did a search result for the past week, month, and quarter to see if anything showed up and got nothing. Then, I decided to do another search for the past year, and it turns out there is only data from 02/20/2020. Therefore, I attached a screenshot of those results.
+
+![splunk](/images/splunk2.png)
