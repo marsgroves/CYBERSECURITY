@@ -14,3 +14,6 @@ Background: As the worldwide leader of importing and exporting, Vandalay Industr
 Not only were web servers taken offline by a DDOS attack, but upload and download speed were also significantly impacted after the outage. Your networking team provided results of a network speed run around the time of the latest DDOS attack.
 
 Task: Create a report to determine the impact that the DDOS attack had on download and upload speed. Additionally, create an additional field to calculate the ratio of the upload speed to the download speed. Upload the following file of the system speeds around the time of the attack (Speed Test File).
+
+Command in New Search on Splunk:
+
