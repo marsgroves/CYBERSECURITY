@@ -246,3 +246,7 @@ Q: Look through the output where Dashboard is highlighted. Does any of the wordi
 A: Yes. After adding the grep pipe, we can see all occurrences of the word ‘Dashboard’ within the returned response body, showing us a successfully returned index.php session.
 
 ## Step 5: Test the Users.php Page
+
+
+
+1. Finally, write a `curl` command using the same `--cookie ryancookies.txt` option, but attempt to access `http://localhost:8080/wp-admin/users.php`:
