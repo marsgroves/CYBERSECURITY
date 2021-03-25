@@ -8,3 +8,5 @@ You have just been hired as an SOC Analyst by Vandalay Industries, an importing 
 ## Vandalay Industries Monitoring Activity Instructions
 
 Step 1: The Need for Speed
+
+Background: As the worldwide leader of importing and exporting, Vandalay Industries has been the target of many adversaries attempting to disrupt their online business. Recently, Vandaly has been experiencing DDOS attacks against their web servers.
