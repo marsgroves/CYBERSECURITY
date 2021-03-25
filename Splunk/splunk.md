@@ -31,3 +31,5 @@ It took about 2 hours for IP address 198.153.194.2 to return to its normal speed
 Background: Due to the frequency of attacks, your manager needs to be sure that sensitive customer data on their servers is not vulnerable. Since Vandalay uses Nessus vulnerability scanners, you have pulled the last 24 hours of scans to see if there are any critical vulnerabilities.
 
 I created a report that shows the count of critical vulnerabilities from the customer database server on IP 10.11.36.23 by doing the following search on Splunk:
+
+```source=”nessus_logs.csv” dest_ip=”10.11.36.23” severity=”critical” | top severity```
