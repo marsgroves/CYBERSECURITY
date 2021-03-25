@@ -16,4 +16,5 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 Task: Create a report to determine the impact that the DDOS attack had on download and upload speed. Additionally, create an additional field to calculate the ratio of the upload speed to the download speed. Upload the following file of the system speeds around the time of the attack (Speed Test File).
 
 Command in New Search on Splunk: 
+source="server_speedtest.csv" | eval ratio = ( UPLOAD_MEGABITS / DOWNLOAD_MEGABITS ) | table _time, IP_ADDRESS, DOWNLOAD_MEGABITS, UPLOAD_MEGABITS, ratio
 
