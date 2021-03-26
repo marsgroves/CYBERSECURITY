@@ -47,3 +47,5 @@ Keep in mind that the activity wanted me to check the last 24 hours of scans. By
 ^^ The previous year shows a count of 49 critical vulnerabilities.
 
 ![splunk](/images/splunk4.png)
+
+^^ When I viewed the critical vulnerabilities (a total count of 49), they were all from 2020 (scroll down to the bottom of the page to view counts).
