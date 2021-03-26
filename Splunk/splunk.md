@@ -40,4 +40,4 @@ Keep in mind that the activity wanted me to check the last 24 hours of scans. By
 
 ![splunk](/images/splunk2.png)
 
-.
+^^ As you can see, the last 24 hours showed nothing.
