@@ -49,3 +49,5 @@ Keep in mind that the activity wanted me to check the last 24 hours of scans. By
 ![splunk](/images/splunk4.png)
 
 ^^ When I viewed the critical vulnerabilities (a total count of 49), they were all from 2020 (scroll down to the bottom of the page to view counts).
+
+3.	Build an alert that monitors every day to see if this server has any critical vulnerabilities. If a vulnerability exists, have an alert emailed to soc@vandalay.com. 
