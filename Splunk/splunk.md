@@ -55,3 +55,5 @@ Keep in mind that the activity wanted me to check the last 24 hours of scans. By
 ![splunk](images/splunk5.png)
 
 ^^ This is an example of how I created an alert. 
+
+## Step 3: Drawing the (base)line
