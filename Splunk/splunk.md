@@ -76,3 +76,5 @@ The brute force attack happened on 02/20/20 at 06:23:00 AM to 02/21/20 at 05:12:
 4. Design an alert to check the threshold every hour and email the SOC team at SOC@vandalay.com if triggered.
 
 ![splunk](/images/splunk9.png)
+
+![splunk](/images/splunk10.png)
