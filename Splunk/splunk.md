@@ -54,4 +54,4 @@ Keep in mind that the activity wanted me to check the last 24 hours of scans. By
 
 ![splunk](images/splunk5.png)
 
-^^ This is to show you that I know how to create an alert. 
+^^ This is an example of how I created an alert. 
