@@ -61,3 +61,7 @@ Keep in mind that the activity wanted me to check the last 24 hours of scans. By
 Background: A Vandaly server is also experiencing brute force attacks into their administrator account. Management would like you to set up monitoring to notify the SOC team if a brute force attack occurs again.
 
 Task: Analyze administrator logs that document a brute force attack. Then, create a baseline of the ordinary amount of administrator bad logins and determine a threshold to indicate if a brute force attack is occurring.
+
+1. Upload the administrator login logs (Admin Logs).
+
+2. 
