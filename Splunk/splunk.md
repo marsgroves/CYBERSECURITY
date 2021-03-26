@@ -66,3 +66,5 @@ Task: Analyze administrator logs that document a brute force attack. Then, creat
 
 2. When did the brute force attack occur?
 The brute force attack happened on 02/20/20 at 06:23:00 AM to 02/21/20 at 05:12:00 PM as shown from the first and last pages of the results (see screenshots below).
+
+![splunk](/images/splunk7.png)
