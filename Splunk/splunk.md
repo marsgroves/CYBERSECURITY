@@ -43,3 +43,5 @@ Keep in mind that the activity wanted me to check the last 24 hours of scans. By
 ^^ As you can see, the last 24 hours showed nothing.
 
 ![splunk](/images/splunk3.png)
+
+^^ The previous year shows a count of 49 critical vulnerabilities.
