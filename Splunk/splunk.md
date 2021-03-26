@@ -64,4 +64,4 @@ Task: Analyze administrator logs that document a brute force attack. Then, creat
 
 1. Upload the administrator login logs (Admin Logs).
 
-2. 
+2. When did the brute force attack occur?
