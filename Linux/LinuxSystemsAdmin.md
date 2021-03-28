@@ -32,4 +32,4 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 
     sudo useradd <name> e.g.,
 
-    
+    sudo useradd sam
