@@ -16,4 +16,5 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 
 3. Permissions on /etc/group should allow `root` read and write access, and allow everyone else read access only. 
 
-    - Command to inspect permissions: ls -l /etc/group
+    - Command to inspect permissions: ls -l /etc/group    
+    - Command to set permissions (if needed): sudo chmod 644 /etc/group
