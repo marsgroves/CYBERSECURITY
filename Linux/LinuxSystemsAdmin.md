@@ -45,3 +45,4 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
     sudo nano /etc/security/pwquality.conf
 
     - Updates to configuration file: 
+    minlen=16
