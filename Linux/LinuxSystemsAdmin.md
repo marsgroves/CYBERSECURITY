@@ -23,3 +23,5 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 
     - Command to inspect permissions: ls -l /etc/passwd
     - Command to set permissions (if needed): sudo chmod 644 /etc/passwd
+
+## Step 2: Create User Accounts
