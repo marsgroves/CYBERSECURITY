@@ -37,3 +37,6 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
     sudo useradd amy
     sudo useradd sara
     sudo useradd admin
+
+ 
+2. Force users to create 16-character passwords incorporating numbers and symbols.
