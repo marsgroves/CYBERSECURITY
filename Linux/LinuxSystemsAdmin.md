@@ -34,3 +34,4 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 
     sudo useradd sam
     sudo useradd joe
+    sudo useradd amy
