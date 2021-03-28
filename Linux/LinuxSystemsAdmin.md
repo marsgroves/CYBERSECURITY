@@ -26,4 +26,6 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 
 ## Step 2: Create User Accounts
 
-1. Add user accounts for `sam`, `joe`, `amy`, `sara`, and `admin`.
+1. Add user accounts for `sam`, `joe`, `amy`, `sara`, and `admin`. 
+
+    - Command to add each user account (include all five users): 
