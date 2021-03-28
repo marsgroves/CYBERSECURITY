@@ -22,3 +22,4 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 4. Permissions on /etc/passwd should allow `root` read and write access, and allow everyone else read access only.
 
     - Command to inspect permissions: ls -l /etc/passwd
+    - Command to set permissions (if needed): sudo chmod 644 /etc/passwd
