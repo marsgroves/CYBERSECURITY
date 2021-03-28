@@ -42,3 +42,4 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 2. Force users to create 16-character passwords incorporating numbers and symbols.
 
     - Command to edit pwquality.conf file: 
+    sudo nano /etc/security/pwquality.conf
