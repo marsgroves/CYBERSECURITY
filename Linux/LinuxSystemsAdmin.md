@@ -6,3 +6,5 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 
     - Command to inspect permissions: ls -l /etc/shadow
     - Command to set permissions (if needed): sudo chmod 600 /etc/shadow
+
+  <i>*The numbers will vary according to permissions chosen for root, group, and others.</i>
