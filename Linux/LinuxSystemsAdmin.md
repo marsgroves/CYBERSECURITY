@@ -12,3 +12,4 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
   2. Permissions on /etc/gshadow should allow only `root` read and write access.
 
     - Command to inspect permissions: ls -l /etc/gshadow
+    - Command to set permissions (if needed): sudo chmod 600 /etc/gshadow
