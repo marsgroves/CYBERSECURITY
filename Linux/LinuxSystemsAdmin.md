@@ -25,3 +25,5 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
     - Command to set permissions (if needed): sudo chmod 644 /etc/passwd
 
 ## Step 2: Create User Accounts
+
+1. Add user accounts for `sam`, `joe`, `amy`, `sara`, and `admin`.
