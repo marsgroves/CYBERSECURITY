@@ -43,3 +43,5 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 
     - Command to edit pwquality.conf file: 
     sudo nano /etc/security/pwquality.conf
+
+    - Updates to configuration file: 
