@@ -57,3 +57,4 @@ maxrepeat=2</i>
 
      - Command to set each new user's password to expire in 90 days (include all five users:
        sudo chage -E 2021-01-07 sam
+       sudo chage -E 2021-01-07 joe
