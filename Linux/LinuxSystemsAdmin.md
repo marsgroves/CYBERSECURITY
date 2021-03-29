@@ -65,3 +65,4 @@ maxrepeat=2</i>
 4. Ensure that only the `admin` has general sudo access.
     
     - Command to add `admin` to the `sudo` group:
+    sudo usermod -G sudo admin
