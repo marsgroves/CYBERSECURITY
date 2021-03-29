@@ -59,3 +59,4 @@ maxrepeat=2</i>
        sudo chage -E 2021-01-07 sam
        sudo chage -E 2021-01-07 joe
        sudo chage -E 2021-01-07 amy
+       sudo chage -E 2021-01-07 sara
