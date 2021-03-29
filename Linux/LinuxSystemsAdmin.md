@@ -80,3 +80,4 @@ maxrepeat=2</i>
     sudo addgroup -G engineers sam
     sudo addgroup -G engineers joe
     sudo addgroup -G engineers amy
+    sudo addgroup -G engineers sara
