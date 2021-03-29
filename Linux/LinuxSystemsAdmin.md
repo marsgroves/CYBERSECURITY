@@ -52,3 +52,5 @@ minclass=3
 maxrepeat=2</i>
 
 3. Force passwords to expire every 90 days.
+
+    - Command to to set each new user's password to expire in 90 days 
