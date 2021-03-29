@@ -83,3 +83,5 @@ maxrepeat=2</i>
     sudo addgroup -G engineers sara
 
 3. Create a shared folder for this group at `/home/engineers`.
+
+    - Command to create the shared folder:
