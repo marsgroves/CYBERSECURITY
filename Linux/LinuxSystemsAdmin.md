@@ -75,3 +75,5 @@ maxrepeat=2</i>
     sudo addgroup engineers
 
 2. Add users `sam`, `joe`, `amy`, and `sara` to the managed group.
+
+    - Command to add users to `engineers` group (include all four users):
