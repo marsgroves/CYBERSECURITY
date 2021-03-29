@@ -48,4 +48,5 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
     minlen=16
 
 <i>*Also voluntarily changed these variables from 0 to the changed #:
-minclass=3</i>
+minclass=3
+maxrepeat=2</i>
