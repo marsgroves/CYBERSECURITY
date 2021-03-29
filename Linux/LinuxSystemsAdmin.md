@@ -86,3 +86,5 @@ maxrepeat=2</i>
 
     - Command to create the shared folder:
     sudo mkdir /home/engineers
+
+4. Change ownership on the new engineers' shared folder to the `engineers` group.
