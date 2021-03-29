@@ -78,3 +78,4 @@ maxrepeat=2</i>
 
     - Command to add users to `engineers` group (include all four users):
     sudo addgroup -G engineers sam
+    sudo addgroup -G engineers joe
