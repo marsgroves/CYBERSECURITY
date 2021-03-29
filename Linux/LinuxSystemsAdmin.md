@@ -46,3 +46,5 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 
     - Updates to configuration file: 
     minlen=16
+
+<i>*Also voluntarily changed these variables from 0 to the changed #:</i>
