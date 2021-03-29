@@ -68,3 +68,5 @@ maxrepeat=2</i>
     sudo usermod -G sudo admin
 
 ## Step 3: Create User Group and Collaborative Folder
+
+1. Add an `engineers` group to the system.
