@@ -85,3 +85,4 @@ maxrepeat=2</i>
 3. Create a shared folder for this group at `/home/engineers`.
 
     - Command to create the shared folder:
+    sudo mkdir /home/engineers
