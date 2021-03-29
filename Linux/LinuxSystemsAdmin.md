@@ -66,3 +66,5 @@ maxrepeat=2</i>
     
     - Command to add `admin` to the `sudo` group:
     sudo usermod -G sudo admin
+
+## Step 3: Create User Group and Collaborative Folder
