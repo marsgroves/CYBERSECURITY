@@ -63,3 +63,5 @@ maxrepeat=2</i>
        sudo chage -E 2021-01-07 admin
 
 4. Ensure that only the `admin` has general sudo access.
+    
+    - Command to add `admin` to the `sudo` group:
