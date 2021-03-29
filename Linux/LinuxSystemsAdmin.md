@@ -50,3 +50,5 @@ Step 1: Ensure/Double Check Permissions on Sensitive Files
 <i>*Also voluntarily changed these variables from 0 to the changed #:
 minclass=3
 maxrepeat=2</i>
+
+3. Force passwords to expire every 90 days.
