@@ -3,7 +3,7 @@
 Welcome to my unofficial Cybersecurity portfolio under construction. 
 
 # Who Am I?
-Hello! I am Mars Groves. I am an Asian-American nonbinary (he/she him/her) member of the LGBTQIA community who is also a strong BIPOC ally. I currently reside in Orange County, California between Los Angeles and San Diego.
+Hello! I am Mars Groves. I am an Asian-American nonbinary (he/she him/her) member of the LGBTQIA community who is also a strong BIPOC ally. I currently reside in the Orange County area of Southern California, which is between Los Angeles and San Diego.
 
 I am a Cybersecurity Specialist. I recently graduated from UC Irvine's Cybersecurity Boot Camp in the winter of 2021, and I am currently in the process of earning my Bachelor's Degree in Cybersecurity. I am also studying for the Security+ exam that I have scheduled to take in late April.
 
