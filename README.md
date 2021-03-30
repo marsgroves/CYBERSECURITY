@@ -9,7 +9,7 @@ understanding of HIPAA laws and the importance of protecting sensitive PII and d
 a mentality that enjoys serving the public for the greater good, and that includes protecting their sensitive data and privacy.
 
 # Interests
-My interests are emphasized in offensive security as my main focus e.g., Penetration Testing. I am fascinated with the penetration of networks and using strategic and creative thinking to find ways to intrude them. Red Team/Offensive Security: Penetration Testing, Bug Bounty Hunting, Web App Hacking, Security research, Secure Coding, and Malware analysis.
+My interests are emphasized in offensive security as my main focus e.g., Penetration Testing. I am fascinated with the penetration of networks, and using strategic and creative thinking to find ways to intrude them if they are indeed penetrable. Red Team/Offensive Security: Penetration Testing, Bug Bounty Hunting, Web App Hacking, Security research, Secure Coding, and Malware analysis.
 
 # Products Used
 Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia
