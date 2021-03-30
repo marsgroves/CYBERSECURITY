@@ -11,7 +11,7 @@ a mentality that enjoys serving the public for the greater good, and that includ
 # Interests
 My interests are emphasized in offensive security as my main focus e.g., Penetration Testing. I am fascinated with the penetration of networks, and using strategic and creative thinking to find ways to intrude them if they are indeed penetrable. Web application security is very intriguing to me as well for similar reasons, and I truly enjoy hacking deliberately insecure servers such as the OWASP WebGoat to gain more understanding of web app security. 
 
-I also have a deep appreciation for bug bounty hunting as well, and I aim to become more knowledgeable in finding bugs. My interests also lie in secure coding of web applications, and the analysis of malware which is very complex but captivates my curiosity. Blockchains, drones, and AI/Machine Learning are also interesting to me.
+I also have a deep appreciation for bug bounty hunting as well, and I aim to become more knowledgeable in finding bugs. My interests also lie in secure coding of web applications, and the analysis of malware which is very complex but captivates my curiosity. Blockchains, drones, and AI/Machine Learning are also interesting to me. I am a fan of technology. :)
 
 # Products Used
 Mac OS X, VMWare, Kali Linux, Ubuntu, Corellia
