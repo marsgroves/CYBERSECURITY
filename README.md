@@ -15,6 +15,7 @@ I also have a deep appreciation for bug bounty hunting as well, and I aim to bec
 
 # Products Used
 Primarily Kali Linux inside of a virtual environment. I enjoy using its security tools such as Metasploit, Nmap, Zenmap, john the ripper, Wireshark, and more. Practicing penetration testing with Hack The Box is my cup of tea (or coffee)! :) However, I do have understanding of Splunk and ELK/Kibana e.g., Filebeat, Metricbeat for monitoring logs and creating alerts and dashboards. I have knowledge of Snort and Sguil including Autopsy for forensics.
+
 # Team
 Red Team baby! I am a Red Teamer at heart, but since I am open to working with Blue Teams,
 I may consider myself as a Purple Teamer someday! :)
