@@ -14,7 +14,7 @@ My interests are emphasized in offensive security as my main focus e.g., Penetra
 
 I have a fondness for bug bounty hunting too, and I am currently learning more about techniques to find bugs more efficiently. Did I mention I love CTF challenges?! My interests also lie in the secure coding of web applications, and the analysis of malware which is very complex but captivates my curiosity. Security research and reading detailed whitepapers are very fun to me too! I aim to become a highly knowledgeable security researcher and writer in the field someday. Blockchains, drones, and AI/Machine Learning are also interesting to me. I am a fan of technology. :)
 
-Aside from the tech-oriented interests of mine, I'm an avid reader who enjoys reading non-fiction books aside from infosec textbooks from No Starch Press. :) I practice mindfulness meditation on a daily basis and write in my journal
+Aside from the tech-oriented interests of mine, I'm an avid reader who enjoys reading non-fiction books, aside from InfoSec related textbooks published by No Starch Press. :) I also love practicing mindfulness meditation and writing in my journal on a daily basis!
 
 # Products Used
 Primarily Kali Linux inside of a virtual environment. I enjoy using its security tools such as Metasploit, Nmap, Zenmap, john the ripper, Wireshark, and more. Practicing penetration testing with Hack The Box is my cup of tea (or coffee)! :) However, I do have understanding of Splunk and ELK/Kibana e.g., Filebeat, Metricbeat for monitoring logs and creating alerts and dashboards. I have knowledge of Snort and Sguil including Autopsy for forensics.
