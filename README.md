@@ -4,7 +4,8 @@ Welcome to my unofficial Cybersecurity portfolio under construction.
 
 # Who Am I?
 I am a Cybersecurity Specialist from Orange County, California. I graduated from UC Irvine's
-Cybersecurity Boot Camp in the winter of 2021, and I am currently in the process of earning my Bachelor's Degree in Cybersecurity.
+Cybersecurity Boot Camp in the winter of 2021, and I am currently in the process of earning my Bachelor's Degree in Cybersecurity. My background entails experience in healthcare as a
+licensed registered respiratory therapist (RRT)
 
 # Interests
 Red Team/Offensive Security: Penetration Testing, Bug Bounty Hunting, Web App Hacking, Security research, Secure Coding, and Malware analysis.
