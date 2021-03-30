@@ -21,4 +21,5 @@ with Hack The Box is my cup of tea (or coffee)! :)
 Linux, Nmap, Hashcat, Splunk, Metasploit, Wireshark, AWK/Bash scripting, and more
 
 # Team
-Red Team baby!
+Red Team baby! I am a Red Teamer at heart, but since I am open to working with Blue Teams,
+I may consider myself as a Purple Teamer someday! :)
