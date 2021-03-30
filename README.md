@@ -3,7 +3,8 @@
 Welcome to my unofficial Cybersecurity portfolio under construction. 
 
 # Who Am I?
-I am a Cybersecurity Specialist from Orange County, California.
+I am a Cybersecurity Specialist from Orange County, California. I graduated from UC Irvine's
+Cybersecurity Boot Camp.
 
 # Interests
 Red Team/Offensive Security: Penetration Testing, Bug Bounty Hunting, Web App Hacking, Security research, Secure Coding, and Malware analysis.
