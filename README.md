@@ -14,11 +14,7 @@ My interests are emphasized in offensive security as my main focus e.g., Penetra
 I also have a deep appreciation for bug bounty hunting as well, and I aim to become more knowledgeable in finding bugs. My interests also lie in secure coding of web applications, and the analysis of malware which is very complex but captivates my curiosity. Blockchains, drones, and AI/Machine Learning are also interesting to me. I am a fan of technology. :)
 
 # Products Used
-Primarily Kali Linux inside of a virtual environment. I enjoy using its security tools such as Metasploit, Nmap, john the ripper, Wireshark, and more. Practicing penetration testing
-with Hack The Box is my cup of tea (or coffee)! :)
-
-# Technical Skills
-Linux, Nmap, jon the ripper, Splunk, Metasploit, Wireshark, AWK/Bash scripting, and more
+Primarily Kali Linux inside of a virtual environment. I enjoy using its security tools such as Metasploit, Nmap, Zenmap, john the ripper, Wireshark, and more. Practicing penetration testing with Hack The Box is my cup of tea (or coffee)! :) However, I do have understanding of Splunk and ELK/Kibana e.g., Filebeat, Metricbeat for monitoring logs and creating alerts and dashboards.
 
 # Team
 Red Team baby! I am a Red Teamer at heart, but since I am open to working with Blue Teams,
