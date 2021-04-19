@@ -5,7 +5,7 @@ Welcome to my unofficial Cybersecurity portfolio under construction.
 # Who Am I?
 Hello! I am Mars Groves. I am an Asian-American nonbinary (he/she him/her) member of the LGBTQIA community and a strong BIPOC ally #BLM. I currently reside in the Orange County area of Southern California, which is between Los Angeles and San Diego.
 
-I am a Cybersecurity Specialist. I recently graduated from UC Irvine's Cybersecurity Boot Camp in the early winter of 2021, and I am currently in the process of earning my Bachelor's Degree in Cybersecurity. I am also studying for the Security+ exam at the present time which I have scheduled to take in late April, and I am holding weekly study group sessions 3x/week for it.
+I am a Cybersecurity Specialist. I recently graduated from UC Irvine's Cybersecurity Boot Camp weeks before Spring of 2021, and I am currently in the process of earning my Bachelor's Degree in Cybersecurity. I am also studying for the Security+ exam at the present time which I have scheduled to take in late April, and I am holding weekly study group sessions 3x/week for it.
 
 My background entails several years of combined experience in healthcare as a licensed registered respiratory therapist (RRT), and account management for a corporation that served as a middleman between life insurance companies and medical care facilities, not limited to private practices and hospitals. As well as a creative technical background in TV/video production and audio engineering/music production. I have great understanding of HIPAA laws and the importance of protecting sensitive PII and data. I have a mentality that enjoys serving the public for the greater good, and that includes protecting the sensitive data and privacy of people and/or their organizations.
 
