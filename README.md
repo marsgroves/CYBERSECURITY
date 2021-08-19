@@ -90,7 +90,7 @@ testing with it.
 👉 Cybersecurity Community:
 <br>-Secjuice (I volunteer to write Cybersecurity articles and curate InfoSec news).
 <br>-Active on Twitter following and interacting with many Cybersecurity industry pros.
-<br>-LinkedIn
+<br>-Active on LinkedIn following Cybersecurity leaders
 <br>-I'm a member of local chapters of OWASP, Women's Cyberjutsu, ISSA, ISACA, WiCys groups.
 <br>-Actively participate in events such as DEFCON, BlackHat, and virtual conferences too.
 <br>-Help fellow peers interested in InfoSec and I have InfoSec mentors I regularly talk to
