@@ -6,8 +6,8 @@ My name is Mars. Thank you for coming to my GitHub!
 
 I'm an Information Security Analyst. I am a graduate of UC Irvine's Cybersecurity bootcamp
 (class of '21) where I first gained technical knowledge and acquired technical skills in
-Offensive and Defensive security. I am also non-binary (pronouns He/Him or She/Her) and 
-an Asian-American who is a strong BIPOC ally and part of the LGBTQ community. I am also 
+Offensive and Defensive security. I am non-binary (pronouns He/Him or She/Her) and an
+Asian-American who is a strong BIPOC ally and part of the LGBTQ community. I am also 
 multilingual and love diverse groups. 
 
 In addition, I have a background in healthcare in Respiratory Therapy (changed industries) 
