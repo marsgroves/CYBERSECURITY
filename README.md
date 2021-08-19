@@ -33,7 +33,7 @@ Cybersecurity at WGU, and expanding my technical skills and knowledge to share i
 <br>-Sumo Logic
 <br>-OSINT tools: Spiderfoot, Maltego, Shodan, recon-ng, Google dorking etc.
 <br>-Penetration Testing tools: Nmap, Zenmap, MetaSploit, WPSCan, wafw00f, etc.
-Check out this project I did with my team at UCI Cybersecurity Bootcamp using WPScan:
+<br>Check out this project I did with my team at UCI Cybersecurity Bootcamp using WPScan:
 https://www.youtube.com/watch?v=0JBKVrURvMA
 <br>-Autopsy Sleuthkit (did a project doing forensics on an iPhone using Autopsy)
 
