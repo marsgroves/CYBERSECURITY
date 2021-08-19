@@ -97,9 +97,9 @@ testing with it.
 
 Make clear, I am highly enthusiastic about the Cybersecurity space, and I look forward to
 learning more and advancing my knowledge to share it with the community!
-
-
-A Happy Hacker,
-Mars Groves
+<br>
+<br>
+<b>A Happy Hacker,</b>
+<br>Mars Groves
 
 
