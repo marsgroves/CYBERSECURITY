@@ -8,7 +8,7 @@ My name is <b>Mars Groves</b>, and I'm a <b>Cybersecurity Analyst</b> who wears 
 I am also the <b>Editor</b> and <b>Contributing Writer</b> for Secjuice, the non-profit Cybersecurity publication.
 <br>
 Occasionally, I will provide undisclosed Cybersecurity services for freelance and contract work for clients. <br>
-Prior to working in Cybersecurity, I worked in healthcare as a Respiratory Therapist saving lives.
+Prior to working in Cybersecurity, I worked in healthcare as a Respiratory Therapist saving lives during code blues.
 <br><br>
 # Cyber Skills
 <b>Technical experience:</b> <br>
