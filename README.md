@@ -1,105 +1,52 @@
-# Cybersecurity Portfolio
+#whoami
 
-Hello everyone! :)
+Hello there! :)
 
-My name is Mars. Thank you for coming to my GitHub!
+Thank you for visiting my GitHub!
 
-I'm an Information Security Analyst. I am a graduate of UC Irvine's Cybersecurity bootcamp
-(class of '21) where I first gained technical knowledge and acquired technical skills in
-Offensive and Defensive security. I am non-binary (pronouns He/Him or She/Her) and an
-Asian-American who is a strong BIPOC ally and part of the LGBTQ community. I am also 
-multilingual and love diverse groups. 
 
-In addition, I have a background in healthcare in Respiratory Therapy (changed industries) 
-and truly shine in areas that require teamwork, empathy, commmunication, and helping others. 
-I am no stranger to handling emergencies and triaging.
+My name is Mars Groves, and I'm a Cybersecurity Analyst who wears many hats at WEBGAP since 2021. 
 
-After graduating from the bootcamp, I continued my education by reading books, participating 
-in Cybersecurity events and with my local chapters (OWASP, ISSA, Women's Cyberjutsu etc), 
-watching live streamed talks, participating in CTF challenges, including actively engaging 
-in technical workshops such as the SOC Analyst Workshop by Cover6 Solutions lead by one of 
-my mentors, Tyrone Wilson. Then I landed an internship and role as an InfoSec analyst for 
-a private company. Currently, I'm in the process of earning my Bachelor's Degree in 
-Cybersecurity at WGU, and expanding my technical skills and knowledge to share it.
+I am also the Editor and Contributing Writer for Secjuice, the non-profit Cybersecurity publication.
 
-👉 I have technical experience with the following:
-<br>-Navigating the Linux command line (ifconfig anyone? :])
-<br>-Kali Linux
-<br>-Wireshark
-<br>-SecurityOnion
-<br>-Snort
-<br>-Elastic Kibana (Check out how I built my ELK stack here )
-<br>-Splunk
-<br>-Sumo Logic
-<br>-OSINT tools: Spiderfoot, Maltego, Shodan, recon-ng, Google dorking etc.
-<br>-Penetration Testing tools: Nmap, Zenmap, MetaSploit, WPSCan, wafw00f, etc.
-<br>Check out this project I did with my team at UCI Cybersecurity Bootcamp using WPScan:
-https://www.youtube.com/watch?v=0JBKVrURvMA
-<br>-Autopsy Sleuthkit (did a project doing forensics on an iPhone using Autopsy)
+Prior to working in Cybersecurity, I worked in healthcare as a Respiratory Therapist saving lives.
 
-👉 Scripts I am familiar with and/or have used:
-<br>-Bash
-<br>-AWK
-<br>-Python (in the process of earning my Google Python certification)
--C+ (learning from a mentor)
 
-*Note: AppSec is indeed an interest of mine and I expect to gain more knowledge in coding
-as I take advantage of free resources on CourseEra, Google, freecodecamp.org, and my 
-lovely mentors etc.
+Most of my work involves analysis, business intelligence, OSINT + HUMINT, deployments, and writing articles.
 
-👉 OS Environments:
-<br>-Unix 
-<br>-Linux (Ubuntu, Kali Linux)
-<br>-Windows
+I have a strong interest in areas of pentesting, all things blockchain related, aerospace, and finance. 
 
-👉 Cloud Environments:
--Azure (I have primarily used the Azure environment)
+My strongest suit is performing deep research, analysis, and writing comprehensive papers on anything.
 
-*Note: I would love to explore AWS and GCP in a work environment if given the opportunity. 
-I am considering gaining certification in AWS or Google Cloud Provider.
+I would love to operate a SOC and/or work as an analyst for a social media giant to level up my abilities.
 
-👉 Certifications:
-<br>-UCI Bootcamp Cybersecurity certificate. Badges: Defensive Security, Networking and Network
-Security, Offensive Security and Penetration Testing, Systems Administration. See LinkedIn
-account for more: https://linkedin.com/in/marsgroves 
-<br>-Network+ and Security+ (in process and studying with study groups)
-<br>-MITRE ATT&CK Fundamentals
-<br>-SOC Analyst Prep by Cover6Solutions
 
-👉 Areas of interest:
-Analysis, penetration testing, web application hacking, AppSec, coding, aerospace, and FinTech. 
+Apart from analysis, I highly enjoy hacking away on my terminal with my labs using Linux and breaking my Raspberry Pi!
 
-*Note: The Aerospace Village at DEFCON in Vegas this August 2021 was my absolute favorite.
-I had no idea aerospace would capture my heart until I learned more about drone hacking from
-DARPA (drone fan here) and the major concern of satellites getting hacked (see Hack A Sat 2). 
+I am training myself to advance my ethical hacking abilities via THM courses, HTB, and TryHackMe, etc.
 
-My second favorite was the Cryptocurrency Village due to my enthusiasm for FinTech and the
-development of blockchain technologies. 
+I would love to work as a pentester for a bank, satellite company, or blockchain/crypto group one day.
 
-👉 Home Labs:
-<br>-I have built a home lab environment e.g., Kali Linux using Oracle VM Virtual Box
-<br>-Raspberry Pi vulnerable server project is in process
-<br>-Building a drone (aiming to get Part 107 UAS license too) to experiment with penetration
-testing with it.
+Currently, I am teaching myself how to code as well because I strongly believe it's a useful skill–and it's fun. 
 
-👉 Hacking Activities:
-<br>-TryHackMe
-<br>-CTF challenges (won 1st place team in a CTF, participated in NahamCon and others)
-<br>-HackTheBox (simple walkthrough video I did here: https://www.youtube.com/watch?v=1t8Mt8wVgiY)
 
-👉 Cybersecurity Community:
-<br>-Secjuice (I volunteer to write Cybersecurity articles and curate InfoSec news).
-<br>-Active on Twitter following and interacting with many Cybersecurity industry pros.
-<br>-Active on LinkedIn following Cybersecurity leaders
-<br>-I'm a member of local chapters of OWASP, Women's Cyberjutsu, ISSA, ISACA, WiCys groups.
-<br>-Actively participate in events such as DEFCON, BlackHat, and virtual conferences too.
-<br>-Help fellow peers interested in InfoSec and I have InfoSec mentors I regularly talk to
+My fascinations revolve around all things futuristic related: Web3, AI, IoTs, biotech, the metaverse, etc.
 
-Make clear, I am highly enthusiastic about the Cybersecurity space, and I look forward to
-learning more and advancing my knowledge to share it with the community!
-<br>
-<br>
-<b>A Happy Hacker,</b>
-<br>Mars Groves
+I'm a creative and tech-savvy person at heart who loves people, enjoys meditation, and can lighten the eNerGy.
+
+My interpersonal and collaborative abilities come naturally, which makes me very easygoing and fun to work with.
+
+
+Lastly, I am non-binary and my pronouns are He/Him or She/Her (anything but They/Them) depending on how you view me.
+
+I am also a Filipino-American, and I can speak four languages. I grew up in a middle to lower class PoC neighborhood.
+
+I am a strong BIPOC and LGBTQ ally. Therefore, working with groups that value diversity is very important to me. :)
+
+
+
+Reach out to me on my LinkedIn or Twitter (see main page) if you'd like to learn more! 
+
+
 
 
