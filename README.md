@@ -46,7 +46,7 @@ I'm a firm believer that <i>you're always winning when you're always learning.</
 I am very curious about working in cybersecurity for <i>all things blockchain related, FinTech and banking, aerospace/drones, medical device companies, and social media giants.</i> 
 
 <b>Jobs I'm Interested In</b><br>
-Analyst and SOC operative work. As I continue to hone my ethical hacking skills, pentesting work may become my main focus later down the road. I will even entertain an internship in coding just to gain valuable experience that can be applicable to AppSec as well.
+Analyst, SOC operative work, and technical writing. As I continue to hone my ethical hacking skills, pentesting work may become my main focus later down the road. I will even entertain an internship in coding just to gain valuable experience that can be applicable to AppSec as well.
 
 
 <b>Curiosities</b><br>
