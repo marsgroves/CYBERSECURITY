@@ -71,6 +71,6 @@ I am a strong BIPOC and LGBTQ ally, and human rights are important to me. Equali
 
 
 <br>
-<b><i>*Reach out to me on my LinkedIn or Twitter (see main page) if you'd like to learn more!</b></i><br><br>
+<b><i>*Reach out to me on my LinkedIn or Twitter (see main page) if you'd like to learn more!</b></i><br><br><br>
 
 ## Thank you for visiting!
