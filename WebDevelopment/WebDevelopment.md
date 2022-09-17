@@ -2,86 +2,56 @@
 
 ## HTTP Requests and Responses
 
-1. What type of architecture does the HTTP request and response process occur in?
 
 HTTP uses client-server architecture where the client makes a request from the server and the server responds back. It's sort of like talking to each other in a way or ordering something that gets delivered back.
 
-2. What are the different parts of an HTTP request? 
+Different parts of an HTTP request include the **request line, request headers, and a request body**.
 
-Request line, request headers, and a request body.
+The **request body** is optional.
 
-3. Which part of an HTTP request is optional?
+The three parts of an HTTP response are: **status line, the response headers, and response body.**
 
-The request body is optional.
+The number class of status codes that represent errors are:
+**400** status codes represent client errors. **500** status codes represent server errors. They both represent errors.
 
-4. What are the three parts of an HTTP response?
+Two of the most common request methods that a security professional will encounter are **POST** and **GET** requests.
 
-The status line, the response headers, and response body.
+**POST** requests are used for *sending data*.
 
-5. Which number class of status codes represent errors?
+The **request body** *contains the data* being sent to the server.
 
-400 status codes represent client errors. 500 status codes represent server errors. They both represent errors.
-
-6. What are the two most common request methods that a security professional will encounter?
-
-POST and GET requests.
-
-7. Which type of HTTP request method is used for sending data?
-
-POST requests.
-
-8. Which part of an HTTP request contains the data being sent to the server?
-
-Request body.
-
-9. In which part of an HTTP response does the browser receive the web code to generate and style a web page?
-
-Response body.
+A browser receives web code to generate and style a web page in the **response body** of an HTTP response.
 
 ## Using curl
 
-10. What are the advantages of using 'curl' over the browser?
+Using **curl** lets you see the response status lines and can be repeated or edited while in use.
 
-It lets you see the response status lines and can be repeated or edited while in use.
+The *curl option* **-X** followed by a POST request method lets you change the request method.
 
-11. Which 'curl' option is used to change the request method?
+The *curl option* **-H** lets you add a header to a request e.g., curl google.com -H "Cookie: Session ID=John".  
 
-The curl option -X followed by a POST request method lets you change the request method.
+The *curl option* **-I ** lets you view the response header.
 
-12. Which 'curl' option is used to set request headers?
+The **OPTIONS** request method can be accepted by an HTTP server and used by an attacker to can figure out what request methods they can use from what they can see.
 
-The curl option -H lets you add a header to a request e.g., curl google.com -H "Cookie: Session ID=John".  
-
-13. Which 'curl' option is used to view the response header?
-
-The curl option -I lets you view the response header.
-
-14. Which request method might an attacker use to figure out which HTTP requests an HTTP server will accept?
-
-The OPTIONS request method so they can figure out usable request methods from what they see.
 
 ## Sessions and Cookies
 
-15. Which response header sends a cookie to the client?
-
-The "Set-Cookie" response header sends a cookie to the client.
+The  **Set-Cookie** response header sends a cookie to the client. See example below.
 
 HTTP/1.1 200 OK
 Content-type: text/html
-Set-Cookie: cart=Bob
+**Set-Cookie**: cart=Bob**
 
-16. Which request header will continue the client's session?
-
-
-The "Cookie" request header will send the "cart=Bob" cookie with the GET request. 
+The **Cookie** request header will continue the client's session by sending the **cart=Bob** cookie with the GET request. 
 
 GET /cart HTTP/1.1
 Host: www.example.org
-Cookie: cart=Bob
+Cookie: **cart=Bob**
 
 ## Example HTTP Requests and Responses
 
-HTTP Request:
+Example of an HTTP Request:
 
 ```HTTP
 POST /login.php HTTP/1.1
@@ -96,26 +66,18 @@ User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/5
 username=Barbara&password=password
 ```
 
-17. What is the request method?
+The request method is **POST**.
 
-The request method is POST.
+The **Upgrade-Insecure-Requests*: 1** header is the browser requesting an encrypted response.
 
+The request shown in the example above does **NOT** have a session associated with it because the request DOES NOT have a **Cookie** header set. 
 
-18. Which header expresses the client's preference for an encrypted response?
-
-The Upgrade-Insecure-Requests: 1 header is the browser requesting an encrypted response.
-
-
-19. Does the request have a user session associated with it?
-
-No, because the request does not have a Cookie header set.
+It appears that data being sent from the request body is an attempt to *authenticate into the site's login.php page* (see username and password details).
 
 
-20. What kind of data is being sent from this request body? 
+# HTTP Response
 
-It appears that this request is an attempt to authenticate into the site's login.php page.
-
-HTTP Response:
+Here is an example of an HTTP response.
 
 ```HTTP
 HTTP/1.1 200 OK
@@ -134,122 +96,89 @@ X-XSS-Protection: 1; mode=block
 [page content]
 ```
 
-21. What is the response status code?
+The *response status code* is **200 OK**.
 
-The response status code is 200 OK.
+The web server handling this HTTP response is **Apache**.
 
+This response has a user session associated with it because it has a **Set-Cookie** header and **SessionID=5**.
 
-22. What web server is handling this HTTP response?
+The site's web code is the content most likely to be in the *[page content]* part because in the **Content-Type** part of the HTTP response, you can see it contains **text/html** 
 
-The web server handling this HTTP response is Apache.
+There are many security headers in this example, such as `Strict-Transport-Security`, `X-Content-Type`, `X-Frame-Options`, and `X-XSS-Protection` that have various purposes. For exanple, `Strict-Transport-Security` tells the client that it should only be accessed over HTTPS and not HTTP.
 
-
-23. Does this response have a user session associated to it?
-
-Yes, which you can see from the Set-Cookie header.
-
-
-24.  What kind of content is likely to be in the [page content] response body?
-
-The site’s web code based on the content-type: text/html header.
-
-
-25. If your class covered security headers, what security request headers have been included?
-
-There are many security headers in this example, but the one covered in class would have been `Strict-Transport-Security`, which tells the client that it should only be accessed over HTTPS and not HTTP.
 
 ## Monoliths and Microservices
 
-26. What are the individual components of microservices called?
+The individual components of microservices are called **services**.
 
-Services.
+An **Application Programming Interface (API)** is a service that writes to a database and communicates to other services. It allows clients to interact directly with back-end-like services.
 
+**Containers** are an underlying technology that allows microservices to become scalable and redundant. Thus, containerization is a great choice for scalability and redundancy.
 
-27. What is a service that writes to a database and communicates to other services?
-
-An Application Programming Interface or API that allows people to interact directly with back-end-like services.
-
-28. What type of underlying technology allows for microservices to become scalable and have redundancy?
-
-Containers which allow microservices to be both scalable and redundant.
 
 ## Deploying and Testing a Container Set
 
-29. What tool can be used to deploy multiple containers at once?
+**Docker-Compose** can deploy multiple containers simultaneously via a `docker-compose.yml` file.
 
-Docker-Compose can deploy multiple containers at once using a `docker-compose.yml` file.
+A YAML file, specifically a `docker-compose.yml` configuration file is required for the deployment of a container set. It contains all of the base containers, networking, and other configurations for our container set.
 
+## Databases (e.g., SQL queries)
 
-30. What kind of file format is required for us to deploy a container set?
-
-A YAML file, specifically a `docker-compose.yml` configuration file that contains all of the base containers, networking, and other configurations for our container set.
-
-## Databases
-
-31. Which type of SQL query would we use to see all of the information within a table called 'customers'?
-
-## SELECT * FROM customers;
+An SQL query can request information from a table. For example, to see all of the information within a table called 'customers' we need to make an SQL query that looks like this:
+**SELECT * FROM customers;**
 
 32. Which type of SQL query would we use to enter new data into a table? (You don't need a full query, just the first part of the statement.)
 
-## INSERT INTO
+This is the SQL query we would use to enter new data into a table:
+**INSERT INTO**
 
-33. Why would we never run `DELETE FROM <table-name>;` by itself?
-
-We would never run it because it would delete the entire table.
+We would never run **DELETE FROM <table-name>;** by itself because it would delete the entire table.
 
 ## Bonus Challenge Solution: The Cookie Jar
 
-The goal for this bonus challenge was to quickly get familiar with using `curl` to save and manage cookies. Security roles that deal with testing websites will need to know how to use command-line cookies for scripting and automation.
+The goal for this bonus challenge was to quickly get familiar with using **curl** to save and manage cookies. Security roles that deal with testing websites will need to know how to use command-line cookies for scripting and automation.
 
-The solution below skips Step 1: Set Up. 
-
-## Step 2: Baselining
-
-The goal of the baselining portion of this activity was to get you familiar with the contents of the Dashboard and what 'users.php' look like for both Administrator and Editor users. 
-
-The later parts of the activity checked to see if curl returned these same pages.
+After completing steps one and two, that is, setting up and completing baselining where I got familiar with the contents of the dashboard and saw the Administrator and Editor users in the *users.php* file, I decided to construct a curl request. I found a user with Editor credentials named Ryan from the list. Let's skip to step 3 now.
 
 ## Step 3: Using Forms and a Cookie Jar
 
-1.  Construct a `curl` request that enters two forms: `"log={username}"` and `"pwd={password}"` and goes to `http://localhost:8080/wp-login.php`. Enter Ryan's credentials where there are placeholders:
+I constructed a **curl** request that enters two forms: `"log={username}"` and `"pwd={password}"` and goes to `http://localhost:8080/wp-login.php`. In this example, I entered Ryan's credentials where there are placeholders, and it looks like this.
 
-curl --form "log=Ryan" --form "pwd=123456" http://localhost:8080/wp-login.php
+`curl --form "log=Ryan" --form "pwd=123456" http://localhost:8080/wp-login.php`
 
-Q: Did you see any obvious confirmation of a login? (Y/N)
-A: No.
+After constructing my curl request using forms, I did not get an obvious confirmation of a login.
 
-2. Construct the same `curl` request, but this time add the option and path to save your cookie: `--cookie-jar ./ryancookies.txt`. This option tells `curl` to save the cookies to the `ryancookies.txt` text file:
+So what did I do?
 
-curl --cookie-jar ./ryancookies.txt --form "log=Ryan" --form "pwd=123456" http://localhost:8080/wp-login.php
+I constructed the same **curl** request, but this time I added the option and path to save your cookie: 
+`--cookie-jar ./ryancookies.txt` 
 
-3.  Read the contents of the `ryancookies.txt` file. 
+This option tells **curl` to save the cookies to the `ryancookies.txt` text file:
 
-Q: How many items exist in this file?
-A: Four cookies exist in the `ryancookies.txt` file.
+`curl --cookie-jar ./ryancookies.txt --form "log=Ryan" --form "pwd=123456" http://localhost:8080/wp-login.php`
+
+Now I proceeded to read the **ryancookies.text** file.
+
+After reading the contents of the **ryancookies.text** file, **I found 4 cookies** in the `ryancookies.txt` file.
 
 ## Step 4: Log in Using Cookies
 
-1. Craft a new `curl` command that now uses the `--cookie` option, followed by the path to your cookies file. For the URL, use `http://localhost:8080/wp-admin/index.php`:
+Next, I crafted a new **curl** command that now uses the **--cookie** option, followed by the path to your cookies file. For the URL, use `http://localhost:8080/wp-admin/index.php` like this:
 
-curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/index.php
+`curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/index.php`
 
-Q: Is it obvious that we can access the Dashboard? (Y/N)
-A: No.
+It is not yet obvious that we can access the Dashboard with this new curl command using the **--cookie** option.
 
-2. Press the up arrow on your keyboard to run the same command, but this time, pipe `| grep Dashboard` to the end of your command to return all instances of the word `Dashboard` on the page:
+So I pressed the up arrow on my keyboard to run the same command, but this time, I would pipe `| grep Dashboard` to the end of my command to return all instances of the word **Dashboard** on the page which looks like this:
 
-curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/index.php | grep Dashboard
+`curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/index.php | grep Dashboard`
 
-Q: Look through the output where Dashboard is highlighted. Does any of the wording on this page seem familiar? (Y/N) If so, you should be successfully logged into your Editor's dashboard.
-
-A: Yes. After adding the grep pipe, we can see all occurrences of the word ‘Dashboard’ within the returned response body, showing us a successfully returned index.php session.
+A: Next, I looked through the output where **Dashboard** is highlighted. After adding the grep pipe, I can see all occurrences of the word ‘Dashboard’ within the returned response body, showing us a successfully returned ‘index.php‘ session which allows me to log into the Editor's dashboard.
 
 ## Step 5: Test the Users.php Page
 
-1. Finally, write a `curl` command using the same `--cookie ryancookies.txt` option, but attempt to access `http://localhost:8080/wp-admin/users.php`:
+Finally, write a **curl** command using the same `--cookie ryancookies.txt` option, but attempt to access `http://localhost:8080/wp-admin/users.php`:
 
-curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/users.php
+`curl --cookie ./ryancookies.txt http://localhost:8080/wp-admin/users.php`
 
-Q: What happens this time?
-A: We once again see the warning ‘You need a higher level of permission. Sorry, you are not allowed to list users.’
+After doing this, I saw the warning ‘You need a higher level of permission. Sorry, you are not allowed to list users.’ Because these are not Admin credentials, we were unable to access it, but at least we gained access to the Editor's dashboard.
