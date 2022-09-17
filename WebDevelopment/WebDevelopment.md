@@ -12,11 +12,11 @@ The **request body** is optional.
 The three parts of an HTTP response are: **status line, the response headers, and response body.**
 
 The number class of status codes that represent errors are:
-**400** status codes represent client errors. **500** status codes represent server errors. They both represent errors.
+`400` status codes represent client errors. `500` status codes represent server errors. They both represent errors.
 
-Two of the most common request methods that a security professional will encounter are **POST** and **GET** requests.
+Two of the most common request methods that a security professional will encounter are `POST` and `GET` requests.
 
-**POST** requests are used for *sending data*.
+`POST` requests are used for *sending data*.
 
 The **request body** *contains the data* being sent to the server.
 
@@ -26,28 +26,28 @@ A browser receives web code to generate and style a web page in the **response b
 
 Using **curl** lets you see the response status lines and can be repeated or edited while in use.
 
-The *curl option* **-X** followed by a POST request method lets you change the request method.
+The *curl option* `-X`followed by a POST request method lets you change the request method.
 
-The *curl option* **-H** lets you add a header to a request e.g., curl google.com -H "Cookie: Session ID=John".  
+The *curl option* `-H` lets you add a header to a request e.g., curl google.com -H "Cookie: Session ID=John".  
 
-The *curl option* **-I ** lets you view the response header.
+The *curl option* `-I` lets you view the response header.
 
-The **OPTIONS** request method can be accepted by an HTTP server and used by an attacker to can figure out what request methods they can use from what they can see.
+The `OPTIONS` request method can be accepted by an HTTP server and used by an attacker to can figure out what request methods they can use from what they can see.
 
 
 ## Sessions and Cookies
 
-The  **Set-Cookie** response header sends a cookie to the client. See example below.
+The `Set-Cookie` response header sends a cookie to the client. See example below.
 
-HTTP/1.1 200 OK
+`HTTP/1.1 200 OK
 Content-type: text/html
-**Set-Cookie**: cart=Bob**
+**Set-Cookie**: cart=Bob`
 
-The **Cookie** request header will continue the client's session by sending the **cart=Bob** cookie with the GET request. 
+The `Cookie` request header will continue the client's session by sending the `cart=Bob` cookie with the GET request. 
 
-GET /cart HTTP/1.1
+`GET /cart HTTP/1.1
 Host: www.example.org
-Cookie: **cart=Bob**
+Cookie: cart=Bob`
 
 ## Example HTTP Requests and Responses
 
@@ -66,11 +66,11 @@ User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/5
 username=Barbara&password=password
 ```
 
-The request method is **POST**.
+The request method is `POST`.
 
-The **Upgrade-Insecure-Requests*: 1** header is the browser requesting an encrypted response.
+The `Upgrade-Insecure-Requests*: 1` header is the browser requesting an encrypted response.
 
-The request shown in the example above does **NOT** have a session associated with it because the request DOES NOT have a **Cookie** header set. 
+The request shown in the example above does **NOT** have a session associated with it because the request DOES NOT have a `Cookie` header set. 
 
 It appears that data being sent from the request body is an attempt to *authenticate into the site's login.php page* (see username and password details).
 
@@ -96,7 +96,7 @@ X-XSS-Protection: 1; mode=block
 [page content]
 ```
 
-The *response status code* is **200 OK**.
+The *response status code* is `200 OK`.
 
 The web server handling this HTTP response is **Apache**.
 
@@ -118,25 +118,25 @@ An **Application Programming Interface (API)** is a service that writes to a dat
 
 ## Deploying and Testing a Container Set
 
-**Docker-Compose** can deploy multiple containers simultaneously via a `docker-compose.yml` file.
+`Docker-Compose` can deploy multiple containers simultaneously via a `docker-compose.yml` file.
 
 A YAML file, specifically a `docker-compose.yml` configuration file is required for the deployment of a container set. It contains all of the base containers, networking, and other configurations for our container set.
 
 ## Databases (e.g., SQL queries)
 
 An SQL query can request information from a table. For example, to see all of the information within a table called 'customers' we need to make an SQL query that looks like this:
-**SELECT * FROM customers;**
+`SELECT * FROM customers;`
 
 32. Which type of SQL query would we use to enter new data into a table? (You don't need a full query, just the first part of the statement.)
 
 This is the SQL query we would use to enter new data into a table:
-**INSERT INTO**
+`INSERT INTO`
 
-We would never run **DELETE FROM <table-name>;** by itself because it would delete the entire table.
+We would never run `DELETE FROM <table-name>;` by itself because it would delete the entire table.
 
-## Bonus Challenge Solution: The Cookie Jar
+## Bonus Challenge: The Cookie Jar
 
-The goal for this bonus challenge was to quickly get familiar with using **curl** to save and manage cookies. Security roles that deal with testing websites will need to know how to use command-line cookies for scripting and automation.
+The goal for this bonus challenge was to quickly get familiar with using `curl` to save and manage cookies. Security roles that deal with testing websites will need to know how to use command-line cookies for scripting and automation. So I created command-line cookies using forms in the demonstration below with the Editor Ryan's credentials.
 
 After completing steps one and two, that is, setting up and completing baselining where I got familiar with the contents of the dashboard and saw the Administrator and Editor users in the *users.php* file, I decided to construct a curl request. I found a user with Editor credentials named Ryan from the list. Let's skip to step 3 now.
 
@@ -153,11 +153,11 @@ So what did I do?
 I constructed the same **curl** request, but this time I added the option and path to save your cookie: 
 `--cookie-jar ./ryancookies.txt` 
 
-This option tells **curl` to save the cookies to the `ryancookies.txt` text file:
+This option tells `curl` to save the cookies to the `ryancookies.txt` text file:
 
 `curl --cookie-jar ./ryancookies.txt --form "log=Ryan" --form "pwd=123456" http://localhost:8080/wp-login.php`
 
-Now I proceeded to read the **ryancookies.text** file.
+Now I proceeded to read the `ryancookies.text` file.
 
 After reading the contents of the **ryancookies.text** file, **I found 4 cookies** in the `ryancookies.txt` file.
 
