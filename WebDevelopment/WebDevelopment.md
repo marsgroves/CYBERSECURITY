@@ -68,7 +68,7 @@ username=Barbara&password=password
 
 The request method is `POST`.
 
-The `Upgrade-Insecure-Requests*: 1` header is the browser requesting an encrypted response.
+The `Upgrade-Insecure-Requests: 1` header is the browser requesting an encrypted response.
 
 The request shown in the example above does **NOT** have a session associated with it because the request DOES NOT have a `Cookie` header set. 
 
